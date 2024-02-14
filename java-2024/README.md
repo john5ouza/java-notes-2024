@@ -1,34 +1,34 @@
-# Java - Projetos
+# Java - Projects
 
-### Boas práticas (Clean Code)
+### Best Practices (Clean Code)
 
-- Na base de código, adotar um estilo de formatação consistente
-- Seguir as convenções de nomes para classes(usar sempre letra maiúscula), métodos, variáveis e pacotes(usar sempre letras minúsculas, nomes juntos ou separados com underline)
-- Use identação, espaçamento, e quebra de linha parar melhorar a legibilidade
-- YAGNI - You aren't gonna ned this:
-  Variáveis, pacotes, métodos, classes não usadas.
+- In the codebase, adopt a consistent formatting style.
+- Follow naming conventions for classes (always use uppercase), methods, variables, and packages (always use lowercase, names joined or separated with underscores).
+- Use indentation, spacing, and line breaks to improve readability.
+- YAGNI - You Aren't Gonna Need It:
+  Unused variables, packages, methods, classes.
 
 ---
 
-### Fundamentos
+### Fundamentals
 
-- Variáveis
-- Tipos primitivos
+- Variables
+- Primitive Types
   - Characters
-  - Intergers
+  - Integers
   - Decimals
   - Booleans
-- Operadores
-  - Aritméticos
-  - Relacionais
-  - Atribuição
-  - Lógicos
+- Operators
+  - Arithmetic
+  - Relational
+  - Assignment
+  - Logical
 - Casting
-  - Widening Casting(implícito)
-  - Narrowing Casting(explícito)
-- Entrada e saída de dados(I/O)
+  - Widening Casting (implicit)
+  - Narrowing Casting (explicit)
+- Input and Output (I/O)
 - String
-- Boas práticas
-- Exercícios
+- Best Practices
+- Exercises
 
 ---
