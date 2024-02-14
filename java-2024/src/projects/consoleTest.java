@@ -2,7 +2,7 @@ package projects;
 
 import java.io.Console;
 
-public class console {
+public class consoleTest {
   public static void main(String[] args) {
     Console console = System.console();
 
