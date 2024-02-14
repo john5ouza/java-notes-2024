@@ -1,5 +1,7 @@
 # Java - Projects
 
+> [Repository Here](https://github.com/john5ouza/java-notes-2024)
+
 ### Best Practices (Clean Code)
 
 - In the codebase, adopt a consistent formatting style.
