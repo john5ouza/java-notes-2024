@@ -48,3 +48,10 @@ Updated study repository for Java in 2024. It contains examples, exercises, and 
   - Switch
 - Best Prectices
 - Exercises
+
+### Repeating Instructions
+
+- While / Do While
+- For
+- Best Prectices
+- Exercises
